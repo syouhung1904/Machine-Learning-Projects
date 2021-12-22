@@ -6,7 +6,7 @@ Rossmann是欧洲的一家连锁药店。 在这个源自Kaggle比赛[Rossmann S
 
 ### 项目环境
 
-win10
+Mac M1
 
 python3.7+jupyter nootbook 
 
@@ -34,5 +34,5 @@ xgboost
 
 6、xgb_submission.csv 预测结果
 
-RMSPE得分：0.054828
+RMSPE得分：0.04260
 
